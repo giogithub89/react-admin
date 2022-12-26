@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function topbar() {
+export default function Topbar() {
   return <div>topbar</div>;
 }
